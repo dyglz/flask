@@ -1,0 +1,6 @@
+# Ignoruoti siuos failus:
+
+.venv/
+.txt/
+.pyc/
+
