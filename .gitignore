@@ -1,6 +1,7 @@
 # Ignoruoti siuos failus:
 
 .venv/
-.txt/
-.pyc/
+*.txt
+*.pyc
+ca_flask/tema_2_flask_1_dalis/__pycache__
 
